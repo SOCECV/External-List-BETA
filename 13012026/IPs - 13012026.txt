@@ -38,3 +38,11 @@
 66.240.192.138
 186.10.37.26 #Akamai Dedicated Infra #20260202
 2.59.22.234 #Shodan Scan Infra
+104.152.52.206
+165.22.76.163
+167.94.138.196 #Censys Scan Infra
+205.210.31.55 #Palo Alto Cortex Xpanse Infra
+205.210.31.182 #PAN Cortex
+205.210.31.244 #PAN Xpanse
+176.65.148.92 #C2
+34.229.166.50 #AWS Sinkhole (Anubis)
