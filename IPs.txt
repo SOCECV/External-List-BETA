@@ -1,4 +1,4 @@
-#CSIRT Nacional
+#CSIRT
 47.253.249.0
 5.57.226.202 #DNS webcindario.com HOST
 #IOC Exploit CVE-2025-59718 & CVE-2025-59719
@@ -9,7 +9,7 @@
 38.54.88.203
 38.54.95.226
 38.60.212.97
-#Detectadas
+#Detected
 45.134.26.236
 62.60.131.157
 62.60.135.160 #DNS hz3721.cn HOST, 13.01.2026
@@ -19,7 +19,7 @@
 193.143.1.33
 217.119.139.34
 8.138.5.105
-#Infra Dedicada
+#Dedicated Infra
 185.11.61.41 
 185.80.129.110
 139.45.197.254 #Malvertising
@@ -57,3 +57,36 @@
 139.45.197.253
 89.248.167.131
 80.82.77.139
+139.45.197.254
+172.66.0.162
+5.77.50.33
+208.87.233.190
+158.94.209.87 #Enel Phishing
+45.144.52.165 #Compromised RAT Server
+94.131.217.39 #Automated bad infra
+154.205.154.82 #UAT-9244
+207.148.121.95 #UAT-9244
+207.148.120.52 #UAT-9244
+185.196.10.247 # PeerTime remote locations
+185.196.10.38 # PeerTime C2s
+212.11.64.105 # BruteEntry infrastructure
+185.196.10.247 # BruteEntry infrastructure
+149.28.25.33 # Suspected UAT-9244 IPs
+154.205.154.194 # Suspected UAT-9244 IPs
+154.205.154.65 # Suspected UAT-9244 IPs
+154.205.154.70 # Suspected UAT-9244 IPs
+154.223.21.130 # Suspected UAT-9244 IPs
+154.223.21.194 # Suspected UAT-9244 IPs
+158.247.238.240 # Suspected UAT-9244 IPs
+216.238.112.222 # Suspected UAT-9244 IPs
+216.238.123.242 # Suspected UAT-9244 IPs
+216.238.94.37 # Suspected UAT-9244 IPs
+38.54.125.134 # Suspected UAT-9244 IPs
+38.60.199.34 # Suspected UAT-9244 IPs
+45.32.106.94 # Suspected UAT-9244 IPs
+45.77.34.194 # Suspected UAT-9244 IPs
+45.77.41.141 # Suspected UAT-9244 IPs
+47.76.100.159 # Suspected UAT-9244 IPs
+64.190.113.170 # Suspected UAT-9244 IPs
+64.95.10.253 # Suspected UAT-9244 IPs
+35.240.88.137
