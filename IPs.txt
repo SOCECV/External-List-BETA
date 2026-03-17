@@ -89,5 +89,61 @@
 47.76.100.159 # Suspected UAT-9244 IPs
 64.190.113.170 # Suspected UAT-9244 IPs
 64.95.10.253 # Suspected UAT-9244 IPs
+95.179.213.0 # Chrysalis backdoor APT Lotus Blossom
+61.4.102.97 # Chrysalis backdoor APT Lotus Blossom
+59.110.7.32 # Chrysalis backdoor APT Lotus Blossom
+124.222.137.114 # Chrysalis backdoor APT Lotus Blossom
 35.240.88.137
 222.186.13.130
+# Ref-ID: Mn-71-F31E
+103.10.87.52 # Found at BinaryDefense
+103.239.252.66 # Found at BinaryDefense
+103.75.180.250 # Found at BinaryDefense
+104.131.8.56 # Found at BinaryDefense
+106.75.137.178 # Found at BinaryDefense
+106.75.186.101 # Found at BinaryDefense
+111.47.243.251 # Found at BinaryDefense
+113.240.227.123 # Found at BinaryDefense
+118.107.1.174 # Found at BinaryDefense
+122.3.185.236 # Found at BinaryDefense
+146.190.241.68 # Found at BinaryDefense
+162.142.125.196 # Found at BinaryDefense
+162.142.125.36 # Found at BinaryDefense
+164.92.165.52 # Found at BinaryDefense
+172.104.210.105 # Found at BinaryDefense
+184.105.247.252 # Found at BinaryDefense
+195.170.172.128 # Found at BinaryDefense
+200.39.40.19 # Found at BinaryDefense
+207.154.232.101 # Found at BinaryDefense
+212.112.108.122 # Found at BinaryDefense
+217.160.224.240 # Found at BinaryDefense
+66.228.53.4 # Found at BinaryDefense
+69.164.217.245 # Found at BinaryDefense
+71.6.232.30 # Found at BinaryDefense
+78.142.18.92 # Found at BinaryDefense
+206.168.34.48 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated)
+206.168.34.55 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated)
+64.62.197.137 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated)
+64.62.197.152 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated)
+64.62.197.32 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated)
+64.62.197.17 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated), Moniker (Open Proxies)
+64.62.197.182 # Found at BinaryDefense, Blocklist.de (All), FireHOL Level 1 (Massive Aggregated), Moniker (Open Proxies)
+128.199.8.140 # Found at BinaryDefense, Blocklist.de (All), Moniker (Open Proxies)
+45.82.78.100 # Found at BinaryDefense, Blocklist.de (All), Moniker (Open Proxies)
+45.82.78.102 # Found at BinaryDefense, Blocklist.de (All), Moniker (Open Proxies)
+45.82.78.103 # Found at BinaryDefense, Blocklist.de (All), Moniker (Open Proxies)
+87.236.176.108 # Found at BinaryDefense, Blocklist.de (All), Moniker (Open Proxies)
+103.18.133.253 # Found at BinaryDefense, CINS Army (General Bad)
+103.31.82.141 # Found at BinaryDefense, CINS Army (General Bad)
+109.224.17.86 # Found at BinaryDefense, CINS Army (General Bad)
+118.193.56.235 # Found at BinaryDefense, CINS Army (General Bad)
+118.194.250.127 # Found at BinaryDefense, CINS Army (General Bad)
+122.54.143.156 # Found at BinaryDefense, CINS Army (General Bad)
+123.58.213.118 # Found at BinaryDefense, CINS Army (General Bad)
+139.162.117.40 # Found at BinaryDefense, CINS Army (General Bad)
+14.241.84.27 # Found at BinaryDefense, CINS Army (General Bad)
+143.198.150.150 # Found at BinaryDefense, CINS Army (General Bad)
+143.202.210.166 # Found at BinaryDefense, CINS Army (General Bad)
+146.190.149.252 # Found at BinaryDefense, CINS Army (General Bad)
+147.182.202.179 # Found at BinaryDefense, CINS Army (General Bad)
+152.32.239.15 # Found at BinaryDefense, CINS Army (General Bad)
