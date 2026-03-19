@@ -105,3 +105,17 @@ cyyroro04xrqr.premilkyway.com
 xtibh.com # PeerTime remote locations
 xcit76.com # PeerTime remote locations
 bloopencil.net # PeerTime C2s
+text.exabearn.com # Phishing Microsoft
+cherryberry.click #Exploit Support Domain (Active Jan 2026)
+ms-server-default.com #Exploit Support Domain (Active Mar 2026)
+initialize-configs.com #Exploit Support Domain (Active Mar 2026)
+ms-global.first-update-server.com #Exploit Support Domain (Active Mar 2026)
+ms-sql-auth.com #Exploit Support Domain (Active Mar 2026)
+kolonialeru.com #Exploit Support Domain (Active Mar 2026)
+sclair.it.com #Exploit Support Domain (Active Mar 2026)
+browser-updater.com #C2 domain (Active Mar 2026)
+browser-updater.live #C2 domain (Active Mar 2026)
+os-update-server.com #C2 domain (Active Mar 2026)
+os-update-server.org #C2 domain (Active Mar 2026)
+os-update-server.live #C2 domain (Active Mar 2026)
+os-update-server.top #C2 domain (Active Mar 2026)
