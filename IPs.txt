@@ -64,6 +64,25 @@
 208.87.233.190
 45.144.52.165 #Compromised RAT Server
 94.131.217.39 #Automated bad infra
+80.82.65.127 #Automated bad infra
+178.16.54.124 #Automated bad infra
+195.66.214.79 #C2 Meterpreter
+130.12.180.108 #Mirai
+195.66.214.79 #C2 Meterpreter MetaSploit
+80.94.95.52 #New malicious 20260324
+192.253.248.169 #Bruteforce
+192.253.248.168 #Bruteforce
+185.93.89.167 #Iran bad IP Bruteforce
+87.106.91.226 # Bruteforce
+176.120.22.47 # Bruteforce
+185.156.73.167 # Bruteforce
+91.202.233.33 # Bruteforce
+45.227.253.207 # Bruteforce
+45.227.254.209 # Bruteforce
+194.165.16.131 # Bruteforce
+192.253.248.169 # Bruteforce
+45.227.254.182 # Bruteforce
+185.156.73.62 # Bruteforce
 154.205.154.82 #UAT-9244
 207.148.121.95 #UAT-9244
 207.148.120.52 #UAT-9244
