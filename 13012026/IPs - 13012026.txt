@@ -114,6 +114,12 @@
 124.222.137.114 # Chrysalis backdoor APT Lotus Blossom
 35.240.88.137
 222.186.13.130
+202.53.171.62 #Bruteforcing
+178.130.46.2
+189.23.51.162
+211.253.10.40
+209.38.82.183
+89.42.231.182
 # Interlock ransomware campaign
 206.251.239.164 #Exploit CVE-2026-20131 source IP Mar 2026
 199.217.98.153 #Exploit CVE-2026-20131 source IP
