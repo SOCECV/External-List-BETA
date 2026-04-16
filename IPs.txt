@@ -75,6 +75,7 @@
 185.93.89.167 #Iran bad IP Bruteforce
 87.106.91.226 # Bruteforce
 176.120.22.47 # Bruteforce
+176.120.22.13 # Bruteforce
 185.156.73.167 # Bruteforce
 91.202.233.33 # Bruteforce
 45.227.253.207 # Bruteforce
@@ -83,6 +84,11 @@
 192.253.248.169 # Bruteforce
 45.227.254.182 # Bruteforce
 185.156.73.62 # Bruteforce
+2.57.121.25 # Bruteforce
+62.60.131.157 # SSH Bruteforce
+178.16.54.169 # Bruteforce
+213.209.159.177 # New Bruteforce
+185.93.89.167 # Bruteforce
 154.205.154.82 #UAT-9244
 207.148.121.95 #UAT-9244
 207.148.120.52 #UAT-9244
@@ -120,6 +126,7 @@
 211.253.10.40
 209.38.82.183
 89.42.231.182
+64.62.197.47 # VPN Bruteforce
 # Interlock ransomware campaign
 206.251.239.164 #Exploit CVE-2026-20131 source IP Mar 2026
 199.217.98.153 #Exploit CVE-2026-20131 source IP
@@ -130,6 +137,12 @@
 144.172.110.106 #C2 Fallback IP
 95.217.22.175 #C2 Fallback IP
 37.27.244.222 #Staging host IP Mar 2026
+139.45.197.253
+139.45.197.254
+139.45.197.252
+185.16.215.140
+80.82.65.127
+91.238.181.17 # Malware (new)
 # Ref-ID: Mn-71-F31E
 103.10.87.52 # Found at BinaryDefense
 103.239.252.66 # Found at BinaryDefense
@@ -295,3 +308,43 @@
 185.156.73.235 # Found at BinaryDefense, Spamhaus DROP, FireHOL Level 1 (Massive Aggregated)
 91.92.242.214 # Found at BinaryDefense, Spamhaus DROP, FireHOL Level 1 (Massive Aggregated)
 92.63.197.50 # Found at BinaryDefense, Spamhaus DROP, FireHOL Level 1 (Massive Aggregated)
+183.6.115.88 # Found at Blocklist.de (All)
+37.46.196.22 # Found at Blocklist.de (All)
+206.168.34.202 # Found at Blocklist.de (All), FireHOL Level 1 (Massive Aggregated)
+64.62.197.46 # Found at Blocklist.de (All), FireHOL Level 1 (Massive Aggregated), Moniker (Open Proxies)
+185.180.141.37 # Found at Blocklist.de (All), Moniker (Open Proxies)
+199.45.154.114 # Found at Blocklist.de (All), Moniker (Open Proxies)
+199.45.155.92 # Found at Blocklist.de (All), Moniker (Open Proxies)
+80.87.206.194 # Found at Blocklist.de (All), Moniker (Open Proxies)
+185.220.101.182 # Found at Blocklist.de (All), Tor Exit Nodes
+100.29.192.101 # Found at CINS Army (General Bad)
+100.29.192.98 # Found at CINS Army (General Bad)
+101.36.108.158 # Found at CINS Army (General Bad)
+101.36.108.191 # Found at CINS Army (General Bad)
+101.36.108.9 # Found at CINS Army (General Bad)
+101.36.112.101 # Found at CINS Army (General Bad)
+101.36.121.22 # Found at CINS Army (General Bad)
+101.36.123.67 # Found at CINS Army (General Bad)
+101.36.127.85 # Found at CINS Army (General Bad)
+101.36.97.131 # Found at CINS Army (General Bad)
+101.36.97.172 # Found at CINS Army (General Bad)
+101.36.97.205 # Found at CINS Army (General Bad)
+101.36.97.74 # Found at CINS Army (General Bad)
+101.36.97.80 # Found at CINS Army (General Bad)
+103.105.67.170 # Found at CINS Army (General Bad)
+103.113.39.133 # Found at CINS Army (General Bad)
+103.120.179.153 # Found at CINS Army (General Bad)
+103.203.57.13 # Found at CINS Army (General Bad)
+103.203.57.28 # Found at CINS Army (General Bad)
+103.245.71.13 # Found at CINS Army (General Bad)
+103.31.119.10 # Found at CINS Army (General Bad)
+103.56.61.130 # Found at CINS Army (General Bad)
+103.91.90.103 # Found at CINS Army (General Bad)
+106.15.238.36 # Found at CINS Army (General Bad)
+111.21.35.230 # Found at CINS Army (General Bad)
+111.40.50.150 # Found at CINS Army (General Bad)
+112.51.15.13 # Found at CINS Army (General Bad)
+115.97.255.48 # Found at CINS Army (General Bad)
+117.156.56.6 # Found at CINS Army (General Bad)
+117.80.116.201 # Found at CINS Army (General Bad)
+118.107.220.15 # Found at CINS Army (General Bad)
