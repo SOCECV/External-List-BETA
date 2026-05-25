@@ -120,3 +120,4 @@ os-update-server.com #C2 domain (Active Mar 2026)
 os-update-server.org #C2 domain (Active Mar 2026)
 os-update-server.live #C2 domain (Active Mar 2026)
 os-update-server.top #C2 domain (Active Mar 2026)
+oneinternetbrowser.com #PUA App
