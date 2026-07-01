@@ -121,3 +121,22 @@ os-update-server.org #C2 domain (Active Mar 2026)
 os-update-server.live #C2 domain (Active Mar 2026)
 os-update-server.top #C2 domain (Active Mar 2026)
 oneinternetbrowser.com #PUA App
+site-wdn40obbt.godaddysites.com #Phishing
+tagstotaf.cc # Phishing COPEC Points
+easyscriptgenerator.com # Chinese C2 & Phishing hidden server
+ganga-clubb.com #TGR Phishing
+milanjodi.com #TGR Phishing
+phukienhoamelinh.vn #TGR Phishing
+superops-wininstaller-prod.s3.us-east-2.amazonaws.com #TGR Phishing C2 RMM
+compraraqui.cl # Compraqui Bank Fake Phishing Site
+familiaranedmin.cc # Phishing Alert
+familiyisjdadmin.cc # Phishing Alert
+ventawebpay.com # Phishing Alert
+webpaycl.site # Phishing Alert
+193.39.167.72.host.secureserver.net # Phishing Alert
+252.190.153.160.host.secureserver.net # Phishing Alert
+seriales.us # Aggresive ads that run JS code
+oastify.com # known infection source
+oast.live # Automated bad infra
+webhook.site # Risky tool, used for exfiltration.
+aliyuncs.com # Alibaba bad infra
