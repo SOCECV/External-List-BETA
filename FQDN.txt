@@ -140,3 +140,16 @@ oastify.com # known infection source
 oast.live # Automated bad infra
 webhook.site # Risky tool, used for exfiltration.
 aliyuncs.com # Alibaba bad infra
+solanaplopcoin.com # BE Phishing
+correos.cl-envia.app # Correo Chile
+meetrova.nl # MS Phishing
+registrosciviles.cl # Reg. Civil Phishing
+mediazonqu.info # Scam
+womchile.com # Phishing
+chilexopress.cc # Phishing
+tagstoteqv.cc # Phishing
+chilexpresz.cc # Phishing
+correosdhfj.top # Phishing
+creditoconsumosantander-cl.d-crete.co.uk # Phishing
+blueexpressd.cc # Phishing
+bluef.cc # Phishing
