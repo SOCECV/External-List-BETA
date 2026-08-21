@@ -153,3 +153,4 @@ correosdhfj.top # Phishing
 creditoconsumosantander-cl.d-crete.co.uk # Phishing
 blueexpressd.cc # Phishing
 bluef.cc # Phishing
+beaprojectfiles.wsbiz.de # Phishing email with malware fake document download
