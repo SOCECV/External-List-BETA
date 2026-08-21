@@ -163,6 +163,60 @@
 91.148.237.63 # Fortibleed Operator IP Address (via RDP - PrivadoVPN)
 109.205.211.139 # Fortibleed Operator IP Address (via RDP)
 213.21.239.65 # Fortibleed Operator IP Address (via RDP)
+193.46.255.86 # Criminal IP 16459 events involving 4 different attack vectors
+2.57.121.25 # Criminal IP 102256 events involving 5 different attack vectors
+101.53.228.210 # Bad IP
+185.136.15.111 # Bad IP
+158.94.209.241 # New Bad IP 20260727
+139.135.43.100 # This IP address is used by an unknown threat actor to conduct internet wide scans or exploitation attempts
+183.81.168.186 # Path Traversal, Port scan, SQL Injection
+103.154.241.61 # Known malicious SSH Bruteforce
+3.13.137.35 # VisionHeight Scanner
+3.139.242.79 # VisionHeight Scanner
+3.151.194.164 # VisionHeight Scanner
+3.18.186.238 # VisionHeight Scanner
+3.20.201.240 # VisionHeight Scanner
+16.58.56.214 # VisionHeight Scanner
+18.116.101.220 # VisionHeight Scanner
+18.218.118.203 # VisionHeight Scanner
+3.130.168.2 # VisionHeight Scanner
+3.131.220.121 # VisionHeight Scanner
+3.134.216.108 # VisionHeight Scanner
+3.143.162.210 # VisionHeight Scanner
+3.151.241.153 # VisionHeight Scanner
+3.129.187.38 # VisionHeight Scanner
+3.132.26.232 # VisionHeight Scanner
+18.119.209.50 # VisionHeight Scanner
+18.189.74.1 # VisionHeight Scanner
+18.190.15.50 # VisionHeight Scanner
+18.217.208.51 # VisionHeight Scanner
+18.221.179.104 # VisionHeight Scanner
+3.131.24.55 # VisionHeight Scanner
+3.133.75.202 # VisionHeight Scanner
+3.142.170.60 # VisionHeight Scanner
+3.147.122.184 # VisionHeight Scanner
+3.151.116.231 # VisionHeight Scanner
+100.28.153.226 # VisionHeight Scanner
+100.49.117.77 # VisionHeight Scanner
+100.50.17.159 # VisionHeight Scanner
+3.83.245.221 # VisionHeight Scanner
+34.197.70.90 # VisionHeight Scanner
+34.228.104.231 # VisionHeight Scanner
+35.169.206.177 # VisionHeight Scanner
+52.20.198.190 # VisionHeight Scanner
+52.207.196.234 # VisionHeight Scanner
+98.87.55.220 # VisionHeight Scanner
+91.202.233.86 # Bruteforce Prospero Ooo
+193.143.1.70 # Proton66 OOO
+91.215.85.46 # Prospero Ooo
+91.238.181.52 # Bruteforce
+193.143.1.64 # Bad IP Proton66 OOO
+91.215.85.65 # Prospero Ooo
+193.24.123.15 # Prospero Ooo
+193.143.1.95 # Bad IP Proton66 OOO
+91.238.181.54 # Suspicious, 100826
+193.24.123.110 # Prospero OOO
+193.143.1.51 # Suspicious, 100826
 # Ref-ID: Mn-71-F31E
 103.10.87.52 # Found at BinaryDefense
 103.239.252.66 # Found at BinaryDefense
@@ -798,3 +852,95 @@
 193.163.125.244 # Found at FireHOL Level 1 (Massive Aggregated)
 193.163.125.245 # Found at FireHOL Level 1 (Massive Aggregated)
 193.163.125.246 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.247 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.248 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.249 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.25 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.250 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.251 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.252 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.253 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.254 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.26 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.27 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.28 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.29 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.3 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.30 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.31 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.32 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.33 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.34 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.35 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.36 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.37 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.38 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.39 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.4 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.40 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.41 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.42 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.43 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.44 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.45 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.46 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.47 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.48 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.49 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.5 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.50 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.51 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.52 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.53 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.54 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.55 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.56 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.57 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.58 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.59 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.6 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.60 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.61 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.62 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.63 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.64 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.65 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.66 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.67 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.68 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.69 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.7 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.70 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.71 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.72 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.73 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.74 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.75 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.76 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.77 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.78 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.79 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.8 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.80 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.81 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.82 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.83 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.84 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.85 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.86 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.87 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.88 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.89 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.9 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.90 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.91 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.92 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.93 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.94 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.95 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.96 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.97 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.98 # Found at FireHOL Level 1 (Massive Aggregated)
+193.163.125.99 # Found at FireHOL Level 1 (Massive Aggregated)
+194.55.186.232 # Found at FireHOL Level 1 (Massive Aggregated)
+198.235.24.129 # Found at FireHOL Level 1 (Massive Aggregated)
