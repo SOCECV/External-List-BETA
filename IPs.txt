@@ -221,6 +221,10 @@
 217.19.4.165 # Bad IP Latvia cloudbackbone.net
 92.101.2.70 # Bad IP Rus
 94.183.184.176 # Bad IP cloudbackbone.net 300926
+79.141.169.187 # Fortimail
+45.129.0.192 # Fortimail
+193.46.255.86 # Bruteforce
+213.209.159.83 # Bruteforce
 # Ref-ID: Mn-71-F31E
 103.10.87.52 # Found at BinaryDefense
 103.239.252.66 # Found at BinaryDefense
