@@ -225,6 +225,29 @@
 45.129.0.192 # Fortimail
 193.46.255.86 # Bruteforce
 213.209.159.83 # Bruteforce
+193.32.204.199 # Bad IP Scans
+93.123.109.226 # Bruteforce
+196.127.32.160 # .env scaner
+172.232.211.111 # Akamai bad infra
+172.239.105.245 # Akamai bad infra
+207.248.204.14 # Grafana IoC 061026
+148.227.115.183 # Grafana IoC
+200.104.6.45 # Grafana temp
+186.105.188.53 # Grafana temp
+172.232.211.111 # Grafana IoC
+190.163.242.29 # Grafana temp
+201.239.47.52 # Grafana temp
+143.110.243.1 # Grafana IoC
+142.91.105.100 # Grafana IoC
+45.133.173.65 # Scan Recon
+2.57.17.248 # Scan Recon
+5.252.83.153 # Scan Recon
+154.16.44.227 # Scan Recon
+179.60.66.251 # Suspicious Proxy
+186.105.188.53 # Bruteforce
+66.42.72.14 # PAN Exploit 131026
+208.83.239.114 # PAN Exploit
+149.248.47.234 # PAN Exploit
 # Ref-ID: Mn-71-F31E
 103.10.87.52 # Found at BinaryDefense
 103.239.252.66 # Found at BinaryDefense
@@ -1052,3 +1075,76 @@
 64.62.197.178 # Found at FireHOL Level 1 (Massive Aggregated)
 64.62.197.179 # Found at FireHOL Level 1 (Massive Aggregated)
 64.62.197.18 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.180 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.181 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.183 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.184 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.185 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.187 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.188 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.189 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.19 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.190 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.191 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.192 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.193 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.194 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.195 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.196 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.198 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.199 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.20 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.200 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.201 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.202 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.203 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.204 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.206 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.207 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.208 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.209 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.21 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.210 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.211 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.213 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.214 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.215 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.216 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.217 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.219 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.22 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.220 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.222 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.223 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.224 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.225 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.226 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.228 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.229 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.23 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.230 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.231 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.232 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.233 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.234 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.235 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.236 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.237 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.238 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.239 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.240 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.241 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.243 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.25 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.26 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.27 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.28 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.29 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.3 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.30 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.31 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.33 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.34 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.35 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.36 # Found at FireHOL Level 1 (Massive Aggregated)
+64.62.197.37 # Found at FireHOL Level 1 (Massive Aggregated)
