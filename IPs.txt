@@ -261,6 +261,11 @@
 87.251.64.17 # FortiBleed: 06/18/26 to 07/20/26
 87.251.64.44 # FortiBleed: 07/04/26
 66.175.220.111 # FortiBleed: 07/17/26 to 07/19/26
+45.138.12.51 # php2shell
+79.124.58.82 # php2shell
+92.118.112.100 #PHP2Shell second-stage payload host. served Potassium-Mirai related payloads (nfs-setup, mountpoint) 2026-10-22
+134.199.154.64 #Potassium Mirai botnet C2 embedded in PHP2Shell-associated malware 2026-10-22
+117.55.202.115 #Potassium Mirai botnet C2 associated with PHP2Shell payload activity 2026-10-22
 # Ref-ID: Mn-71-F31E
 103.10.87.52 # Found at BinaryDefense
 103.239.252.66 # Found at BinaryDefense
