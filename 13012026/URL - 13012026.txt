@@ -140,3 +140,41 @@ oastify.com # known infection source
 oast.live # Automated bad infra
 webhook.site # Risky tool, used for exfiltration.
 aliyuncs.com # Alibaba bad infra
+solanaplopcoin.com # BE Phishing
+correos.cl-envia.app # Correo Chile
+meetrova.nl # MS Phishing
+registrosciviles.cl # Reg. Civil Phishing
+mediazonqu.info # Scam
+womchile.com # Phishing
+chilexopress.cc # Phishing
+tagstoteqv.cc # Phishing
+chilexpresz.cc # Phishing
+correosdhfj.top # Phishing
+creditoconsumosantander-cl.d-crete.co.uk # Phishing
+blueexpressd.cc # Phishing
+bluef.cc # Phishing
+beaprojectfiles.wsbiz.de # Phishing email with malware fake document download
+s23sdf56.45lc9mx79ab.com # APK Connected
+cnddim.xyz # Possible Phishing - disposable infra
+sync.iqzonertb.live # APK Connected
+coosync.com # Conected to Pinktoon ChoChoX.com
+cvt-s1.adangle.online # Pirated media
+cvt-s2.agl003.com
+perr.l-agent.me
+perr.bright-sdk.com
+botlesscucks.st
+*.botlesscucks.st
+gettingheadfromduckysmom.st
+*.gettingheadfromduckysmom.st
+ln.run
+carabineros.sbs
+api.frameworkmetrics.xyz # Compromise of ethersphere-bee-js and Swarm Desktop SleepyDuck
+creepexplosiondarknight.com # AhsayCBS Exploitation
+ip-223-6.dataclub.info # BO Team
+kenobuias.com # Mirax
+lo1yaizaeghaevarood1ahtaichootae.nofrillsdns.com # BO Team
+lo1yaizaeghaevarood1ahtaichootaz.nofrillsdns.com # BO Team
+oscofneuid.com # Mirax
+pool-fr.supportxmr.com # AhsayCBS Exploitation
+pool.supportxmr.com # AhsayCBS Exploitation
+vmware-timecheck-api.nofrillsdns.com # BO Team
